@@ -1,4 +1,4 @@
-- Hi, I’m @vsflcn
+- Hi, I’m Volha
 - I’m interested in ERP systems, hardware/networking performance, automation scripts, CI/CD & cloud computing
 - I'm currently studying and preparing for CompTIA Network+ and CompTIA A+ exams.
 - I’m looking to collaborate on DevOps projects with ERP configurations
