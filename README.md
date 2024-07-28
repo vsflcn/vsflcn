@@ -2,5 +2,5 @@
 - I’m interested in ERP systems, hardware/networking performance, automation scripts, CI/CD & cloud computing
 - I'm currently studying and preparing for CompTIA Network+ and CompTIA A+ exams.
 - I’m looking to collaborate on DevOps projects with ERP configurations
-- Technology stack: Bash; PowerShell; Python; Jenkins; Docker; PostgreSQL; AWS
+- Technology stack: Bash; PowerShell; Python; Jenkins; Docker; PostgreSQL; AWS; Terraform; Ansible
 - How to reach me: www.linkedin.com/in/volha-sakalouskaya
